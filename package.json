@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-introsum",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Concat introduction with summary",
   "engines": {
     "gitbook": ">2.x.x"
