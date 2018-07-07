@@ -7,7 +7,7 @@ module.exports = function (book, page) {
 
                 if (data) {
                     var summary = data.toString();
-                    page.content = page.content + summary;
+                    page.content = summary + page.content;
                 }
             } catch (err) {
                 console.error(err.message);
