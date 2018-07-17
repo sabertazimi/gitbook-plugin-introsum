@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Concat introduction with summary",
   "engines": {
-    "gitbook": ">2.x.x"
+    "gitbook": ">2.x.x",
+    "node": ">8.x.x"
   },
   "main": "index.js",
   "scripts": {
